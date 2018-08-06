@@ -1,0 +1,54 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 03/08/2017 12:46
+*/
+
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Flaticon.woff") format("woff"),
+        url("../fonts/Flaticon.ttf") format("truetype"),
+        url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-style: normal;
+}
+
+.flaticon-road-perspective-of-curves:before { content: "\f100"; }
+.flaticon-bus:before { content: "\f101"; }
+.flaticon-search-magnifier-interface-symbol:before { content: "\f102"; }
+.flaticon-university:before { content: "\f103"; }
+.flaticon-building:before { content: "\f104"; }
+.flaticon-skyline:before { content: "\f105"; }
+.flaticon-calendar-1:before { content: "\f106"; }
+.flaticon-calendar:before { content: "\f107"; }
+.flaticon-discount:before { content: "\f108"; }
+.flaticon-tag:before { content: "\f109"; }
+.flaticon-call-center-operator:before { content: "\f10a"; }
+.flaticon-operator:before { content: "\f10b"; }
+.flaticon-telephone-operator:before { content: "\f10c"; }
+.flaticon-placeholder-filled-point:before { content: "\f10d"; }
+.flaticon-facebook-placeholder-for-locate-places-on-maps:before { content: "\f10e"; }
+.flaticon-placeholder:before { content: "\f10f"; }
+.flaticon-credit-card:before { content: "\f110"; }
+.flaticon-wallet:before { content: "\f111"; }
+.flaticon-arrows:before { content: "\f112"; }
+.flaticon-display:before { content: "\f113"; }
+.flaticon-square:before { content: "\f114"; }
+.flaticon-monitor:before { content: "\f115"; }
+.flaticon-smartphone:before { content: "\f116"; }
+.flaticon-search:before { content: "\f117"; }
+.flaticon-search-1:before { content: "\f118"; }

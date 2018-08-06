@@ -1,0 +1,6 @@
+{
+	"name" : "dompdf/codeigniter",
+  "require": {
+    "dompdf/dompdf" : "0.6.*"
+  }
+}
